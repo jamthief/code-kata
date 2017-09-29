@@ -1,0 +1,30 @@
+{
+  "name": "code-kata",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Because experience is the only teacher. http://codekata.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/speaktorob/code-kata.git"
+  },
+  "keywords": [
+    "code",
+    "kata",
+    "practice",
+    "javascript"
+  ],
+  "author": "github.com/speaktorob",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/speaktorob/code-kata/issues"
+  },
+  "homepage": "https://github.com/speaktorob/code-kata#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-mocha-test": "^0.13.2"
+  }
+}
