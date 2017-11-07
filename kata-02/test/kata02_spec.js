@@ -2,7 +2,8 @@ const assert = require('assert');
 const assert_equal = assert.equal;
 
 const all_algs = [
-	require('../algo-1/bsearch.js')
+	require('../algo-1/bsearch.js'),
+	require('../algo-2/bsearch.js')
 ];
 
 const test_algorithm = chop => {

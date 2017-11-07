@@ -22,7 +22,7 @@ module.exports = function chop(needle, haystack) {
 	} while (start < end);
 
 	return -1;
-}
+};
 
 
 /**
