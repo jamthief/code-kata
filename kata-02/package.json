@@ -25,6 +25,7 @@
   "homepage": "https://github.com/speaktorob/code-kata#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
-    "grunt-mocha-test": "^0.13.2"
+    "grunt-mocha-test": "^0.13.2",
+    "mocha": "^4.0.1"
   }
 }
